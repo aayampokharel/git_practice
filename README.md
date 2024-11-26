@@ -1,6 +1,5 @@
 # git_practice
 this is just for practicing git and changing,updating file in github . <br>
-hello brother. I am learning git pull right now . What about you ? <br>
+hello brother. 
 NEWLY ADDED 
-26th nov ,2024
-
+from git hub okay!!!!!
